@@ -1,2 +1,2 @@
-# code76-services
-Code76 Services POS is a POS application for managing Services. 
+# code76-portfolio
+Peter Mbugua is Computer Programmer, Software Devloper, Database Developer & Data Analytics. 
